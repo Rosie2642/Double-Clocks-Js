@@ -1,1 +1,4 @@
-# Double-Clocks-Js - Adapted from https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/ 
+adapted from
+
+https://www.geeksforgeeks.org/how-to-create-analog-clock-using-html-css-and-javascript/
+
