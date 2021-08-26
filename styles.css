@@ -37,7 +37,7 @@ body{
   margin: auto;
   height: 35vw;
   width: 35vw;
-  background: url("clockface.png") no-repeat;
+  background: url("clockface.svg") no-repeat;
   background-size: 100%;
   margin-left: 5em;
   margin-top: 20%;
@@ -93,7 +93,7 @@ body{
 
   .digital{
   height: 60%;
-  width: 35%;
+  width: 33%;
   border-left: .3em solid black;
   border-right: .3em solid black;
   border-top: 4em solid black;
